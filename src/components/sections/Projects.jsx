@@ -18,7 +18,7 @@ export const Projects = () => {
             category: "ml",
             description: "Linear Regression and Random Forest model predicting unemployment trends from COVID-19 data.",
             tags: ["Python", "Scikit-learn", "Pandas", "Machine Learning"],
-            image: "/projects/Covid_Fred.png", // You'll add these later
+            image: "projects/Covid_Fred.png", // You'll add these later
             links: {
                 github: "https://github.com/Mubashir9/COVID-19-Economic-Forecasting-using-FRED-API",
                 // demo: "https://demo-link.com"
@@ -30,7 +30,7 @@ export const Projects = () => {
             category: "ml",
             description: "Reinforcement Learning agent trained with PPO to play Pong, achieving 70-80% win rate against AI opponents.",
             tags: ["Python", "PyTorch", "Reinforcement Learning", "PPO"],
-            image: "/projects/pong_demo.gif",
+            image: "projects/pong_demo.gif",
             links: {
                 github: "https://github.com/Mubashir9/pong_rl",
                 // demo: "https://demo-link.com"
